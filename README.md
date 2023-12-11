@@ -1,1 +1,1 @@
-# AWS-Deploy-Static-Website
+# Deployed an AWS hosted static Website

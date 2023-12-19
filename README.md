@@ -35,8 +35,10 @@ Creating an Internet Gateway and attaching it to the VPC <br/>
 <br />
 <br />
 
-Create the Public Subnet  <br/>
+Creating the Public Subnets  <br/>
 <img src="https://i.imgur.com/JQ2UCHA.jpg" height="80%" width="80%" alt=""/>
+<br />
+<img src="https://i.imgur.com/FrsFxMr.jpg" height="80%" width="80%" alt=""/>
 <br />
 <br />
 

@@ -124,31 +124,18 @@ Requested SSL certificate for domain <br/>
 <br />
 <br />
 
-
-
-
-Enable <br/>
-<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
+Assigned SSL certificate to ALB <br/>
+<img src="https://i.imgur.com/s2QxPeh.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 
-Enable <br/>
-<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
+Redirecting traffic to secure port 443 <br/>
+<img src="https://i.imgur.com/rpmspDK.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 
-Enable <br/>
-<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
-<br />
-<br />
-
-Enable <br/>
-<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
-<br />
-<br />
-
-Enable <br/>
-<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
+Website launched and secured <br/>
+<img src="https://i.imgur.com/FmT8KeH.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 

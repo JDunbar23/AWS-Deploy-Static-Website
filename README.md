@@ -104,27 +104,51 @@ Created App Load Balancer <br/>
 <br />
 <br />
 
-
-
-
-
-Enable Auto Assign IPv4 Addresses <br/>
-<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+Can now view my website in the ALB DNS <br/>
+<img src="https://i.imgur.com/VL4S6f7.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 
-Enable Auto Assign IPv4 Addresses <br/>
-<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+Registering my domain on Route 53 <br/>
+<img src="https://i.imgur.com/iSl6GOM.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 
-Enable Auto Assign IPv4 Addresses <br/>
-<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+Assigned ALB onto Domain <br/>
+<img src="https://i.imgur.com/TObzexu.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 
-Enable Auto Assign IPv4 Addresses <br/>
-<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+Requested SSL certificate for domain <br/>
+<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+
+
+
+Enable <br/>
+<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable <br/>
+<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable <br/>
+<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable <br/>
+<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable <br/>
+<img src="https://i.imgur.com/Mj7L05g.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 

@@ -21,8 +21,7 @@ This script is utilized in the context of my Azure Sentinel configuration, where
 <h2>Walkthrough</h2>
 
 Turning off Firewall to allow incoming attacks <br/>
-<img src="https://i.imgur.com/PbuLVLd.png" height="80%" width="40%" alt="Open up Firewall"/>
-<img src="https://i.imgur.com/bA6KHyz.png" height="80%" width="40%" alt="Firewall Off"/>
+<img src="https://i.imgur.com/bwmPltR.jpg" height="80%" width="40%" alt=""/>
 <br />
 <br />
 

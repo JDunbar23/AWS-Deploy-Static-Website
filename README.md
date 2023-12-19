@@ -9,7 +9,6 @@ Created the infastructure to support databases being added to the private subnet
 <br />
 <img src="https://i.imgur.com/C90KHEj.jpg" height="60%" width="60%" alt=""/>
 <br />
-<br />
 
 <h2>Services Used</h2>
 
@@ -19,6 +18,7 @@ Created the infastructure to support databases being added to the private subnet
 - <b>Route 53</b> 
 - <b>Apache</b>
 
+<br />
 
 <h2>Walkthrough</h2>
 

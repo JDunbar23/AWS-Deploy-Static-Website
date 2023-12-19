@@ -62,7 +62,59 @@ Created the Private Subnets for the project <br/>
 <br />
 <br />
 
+Created the NAT Gateways <br/>
+<img src="https://i.imgur.com/GF1Rzbf.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
 
+Created the Private Route Table and assigned Private Subnets <br/>
+<img src="https://i.imgur.com/iacERqC.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+
+
+
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
 
 Enable Auto Assign IPv4 Addresses <br/>
 <img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>

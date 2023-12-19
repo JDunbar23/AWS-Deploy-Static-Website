@@ -42,8 +42,33 @@ Creating the Public Subnets  <br/>
 <br />
 <br />
 
-Creating an Internet Gateway and attaching it to the VPC <br/>
-<img src="https://i.imgur.com/5UFyvu1.jpg" height="70%" width="70%" alt=""/>
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Creating the Public Route Table <br/>
+<img src="https://i.imgur.com/KqZBxCV.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
+
+Enable Auto Assign IPv4 Addresses <br/>
+<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 

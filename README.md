@@ -5,7 +5,8 @@ Deployed my portfolio website located on my Github repository using AWS. I creat
 <br />
 Created the infastructure to support databases being added to the private subnets in future.
 <br />
-
+<img src="https://i.imgur.com/C90KHEj.jpg" height="60%" width="60%" alt=""/>
+<br />
 
 <h2>Services Used</h2>
 

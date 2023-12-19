@@ -3,9 +3,12 @@
 <h2>Description</h2>
 Deployed my portfolio website located on my Github repository using AWS. I created a 3 tier VPC and the appropriate Security Groups to keep the app secure, launched the website in an EC2 instance using code to pull through the github repository. Finally bought and registered a domain for the website and secured it.
 <br />
+<br />
 Created the infastructure to support databases being added to the private subnets in future.
 <br />
+<br />
 <img src="https://i.imgur.com/C90KHEj.jpg" height="60%" width="60%" alt=""/>
+<br />
 <br />
 
 <h2>Services Used</h2>

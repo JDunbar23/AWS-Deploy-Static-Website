@@ -31,7 +31,7 @@ Turn on DNS Host names <br/>
 <br />
 
 Creating an Internet Gateway and attaching it to the VPC <br/>
-<img src="https://i.imgur.com/5UFyvu1.jpg" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/5UFyvu1.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 
@@ -42,8 +42,10 @@ Creating the Public Subnets  <br/>
 <br />
 <br />
 
-<h2>World Map of incoming attacks</h2>
-<img src="https://i.imgur.com/i9mCBAv.png" height="80%" width="80%" alt="Azure Attack Map"/>
+Creating an Internet Gateway and attaching it to the VPC <br/>
+<img src="https://i.imgur.com/5UFyvu1.jpg" height="70%" width="70%" alt=""/>
+<br />
+<br />
 
 
 <!--

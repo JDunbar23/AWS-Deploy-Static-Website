@@ -42,7 +42,7 @@ Creating the Public Subnets  <br/>
 <br />
 <br />
 
-Enable Auto Assign IPv4 Addresses <br/>
+Enable Auto Assign IPv4 Addresses on the Public Subnets <br/>
 <img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
@@ -52,15 +52,17 @@ Creating the Public Route Table <br/>
 <br />
 <br />
 
-Enable Auto Assign IPv4 Addresses <br/>
-<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+Assign the Public Subnets to the Public Route Table <br/>
+<img src="https://i.imgur.com/TzQukcQ.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 
-Enable Auto Assign IPv4 Addresses <br/>
-<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+Created the Private Subnets for the project <br/>
+<img src="https://i.imgur.com/frR4e0h.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
+
+
 
 Enable Auto Assign IPv4 Addresses <br/>
 <img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>

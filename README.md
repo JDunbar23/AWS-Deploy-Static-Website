@@ -20,13 +20,13 @@ This script is utilized in the context of my Azure Sentinel configuration, where
 
 <h2>Walkthrough</h2>
 
-Turning off Firewall to allow incoming attacks <br/>
+Creating the VPC for the project <br/>
 <img src="https://i.imgur.com/bwmPltR.jpg" height="80%" width="40%" alt=""/>
 <br />
 <br />
 
-Virtual Machine under attack from multiple locations <br/>
-<img src="https://i.imgur.com/MOYc8Pq.png" height="80%" width="80%" alt="Powershell ISE"/>
+Turn on DNS Host names <br/>
+<img src="https://i.imgur.com/ojRn8UG.jpg" height="80%" width="80%" alt=""/>
 <br />
 <br />
 

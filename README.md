@@ -30,13 +30,13 @@ Turn on DNS Host names <br/>
 <br />
 <br />
 
-Geolocation API <br/>
-<img src="https://i.imgur.com/eo48rh7.png" height="80%" width="80%" alt="Powershell ISE"/>
+Creating an Internet Gateway and attaching it to the VPC <br/>
+<img src="https://i.imgur.com/5UFyvu1.jpg" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
-Code used to display info on map  <br/>
-<img src="https://i.imgur.com/RL3tDlE.png" height="80%" width="80%" alt="Wolrd Map Code"/>
+Create the Public Subnet  <br/>
+<img src="https://i.imgur.com/JQ2UCHA.jpg" height="80%" width="80%" alt=""/>
 <br />
 <br />
 

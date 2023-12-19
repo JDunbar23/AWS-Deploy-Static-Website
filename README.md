@@ -1,21 +1,18 @@
 <h1>Deployed an AWS hosted static Website</h1>
 
 <h2>Description</h2>
-The PowerShell script contained within this repository is designed to extract data from Windows Event Logs regarding unsuccessful RDP intrusion attempts. It then employs a third-party API to gather geographical data related to the origin of the attackers.
+Deployed my portfolio website located on my Github repository using AWS. I created a 3 tier VPC and the appropriate Security Groups to keep the app secure, launched the website in an EC2 instance using code to pull through the github repository. Finally bought and registered a domain for the website and secured it.
 <br />
-<br />
-This script is utilized in the context of my Azure Sentinel configuration, where it is connected to a live virtual machine serving as a decoy for potential cyberattacks. I have personally witnessed live attacks, particularly RDP brute force attacks, originating from various locations worldwide. To visualize this information, I utilized a custom PowerShell script to retrieve the geographic information of the attackers and visualize it on an Azure Sentinel map.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Services Used</h2>
 
-- <b>Microsoft Azure</b>
-- <b>Virtual Machine</b> 
-- <b>Windows 10</b>
-- <b>Azure Sentinel</b> 
-- <b>PowerShell: Extract RDP failed logon logs from Windows Event Viewerl</b> 
-- <b>ipgeolocation.io: IP Address to Geolocation API</b>
+- <b>AWS</b>
+- <b>VPC</b> 
+- <b>EC2</b>
+- <b>Route 53</b> 
+- <b>Apache</b>
 
 
 <h2>Walkthrough</h2>

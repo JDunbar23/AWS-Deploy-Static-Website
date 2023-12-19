@@ -21,12 +21,12 @@ This script is utilized in the context of my Azure Sentinel configuration, where
 <h2>Walkthrough</h2>
 
 Creating the VPC for the project <br/>
-<img src="https://i.imgur.com/bwmPltR.jpg" height="100%" width="40%" alt=""/>
+<img src="https://i.imgur.com/bwmPltR.jpg" height="100%" width="100%" alt=""/>
 <br />
 <br />
 
 Turn on DNS Host names <br/>
-<img src="https://i.imgur.com/ojRn8UG.jpg" height="50%" width="80%" alt=""/>
+<img src="https://i.imgur.com/ojRn8UG.jpg" height="50%" width="50%" alt=""/>
 <br />
 <br />
 
@@ -36,9 +36,9 @@ Creating an Internet Gateway and attaching it to the VPC <br/>
 <br />
 
 Creating the Public Subnets  <br/>
-<img src="https://i.imgur.com/JQ2UCHA.jpg" height="30%" width="80%" alt=""/>
+<img src="https://i.imgur.com/JQ2UCHA.jpg" height="30%" width="30%" alt=""/>
 <br />
-<img src="https://i.imgur.com/FrsFxMr.jpg" height="30%" width="80%" alt=""/>
+<img src="https://i.imgur.com/FrsFxMr.jpg" height="30%" width="30%" alt=""/>
 <br />
 <br />
 

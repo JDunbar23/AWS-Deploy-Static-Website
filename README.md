@@ -90,8 +90,10 @@ Created Webserver security group <br/>
 
 
 
-Enable Auto Assign IPv4 Addresses <br/>
-<img src="https://i.imgur.com/iUMAugX.jpg" height="70%" width="70%" alt=""/>
+Created Key pair + Created EC2 Webserver Instance for AZ1 and AZ2 <br/>
+<img src="https://i.imgur.com/BaTyWH0.jpg" height="70%" width="70%" alt=""/>
+
+<img src="https://i.imgur.com/Y3UiHWx.jpg" height="70%" width="70%" alt=""/>
 <br />
 <br />
 
